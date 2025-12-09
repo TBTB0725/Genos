@@ -1,0 +1,16 @@
+{
+  "user_id": "TB",
+  "created_at": "2025-12-08T22:41:36.762100",
+  "preferences": {
+    "language": null,
+    "home_station": null,
+    "home_station_name": null,
+    "work_station": null,
+    "work_station_name": null,
+    "preferred_line": null,
+    "preferred_direction": null
+  },
+  "facts": [],
+  "conversation_count": 20,
+  "last_conversation": "2025-12-08T23:00:37.400535"
+}
